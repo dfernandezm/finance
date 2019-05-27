@@ -1,3 +1,4 @@
 data
 *.png
 .ipynb_checkpoints
+.practice_token
